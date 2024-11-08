@@ -9,7 +9,7 @@ Let's dive into the world of Generative AI, Next.js, AWS Amplify, and Amazon Bed
 
 ```
 
-git clone https://github.com/aws-samples/recipe-ai.git
+git clone https://github.com/VjySingh/recipe-ai.git
 cd recipe-ai
 
 ```
